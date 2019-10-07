@@ -1,0 +1,9 @@
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\bin\Debug\Cesar.exe.config
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\bin\Debug\Cesar.exe
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\bin\Debug\Cesar.pdb
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\obj\Debug\Cesar.csprojAssemblyReference.cache
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\obj\Debug\Cesar.Form1.resources
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\obj\Debug\Cesar.Properties.Resources.resources
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\obj\Debug\Cesar.csproj.GenerateResource.cache
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\obj\Debug\Cesar.exe
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\Cesar\Cesar\obj\Debug\Cesar.pdb
